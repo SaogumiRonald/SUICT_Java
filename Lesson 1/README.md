@@ -21,7 +21,7 @@
 5. `OrderHistory`: Зберігає історію замовлень `Order`;
 6. `DBProduct`: Імітує базу даних, містить всі товари.
 
-## Опис роботи
+## Опис роботи:
 1. Створено клас `Product` з полями `id`, `name`, `price`, `description`, `category`;
 2. Створено клас `Category` з полями `id`, `name`;
 3. Створено клас `Cart` з полем `products` та методами `addProduct()`, `addProduct()`, `getTotalPrice()`, `clear()`;
