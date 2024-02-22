@@ -7,3 +7,6 @@ This is a repository for passing Java labs.
 ## [Lab4.2](https://github.com/SaogumiRonald/SUICT_Java/tree/main/Lab4-2)
 ## [Lab5](https://github.com/SaogumiRonald/SUICT_Java/tree/main/Lab5)
 ## [Lab6](https://github.com/SaogumiRonald/SUICT_Java/tree/main/Lab6)
+
+========== Second term ==========
+## [Lesson 1](https://github.com/SaogumiRonald/SUICT_Java/tree/main/Lesson%201)
