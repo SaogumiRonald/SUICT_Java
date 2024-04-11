@@ -10,3 +10,4 @@ This is a repository for passing Java labs.
 
 ========== Second term ==========
 ## [Lesson 1](https://github.com/SaogumiRonald/SUICT_Java/tree/main/Lesson%201)
+## [Lesson 2](https://github.com/SaogumiRonald/SUICT_Java/tree/main/Lesson%202)
